@@ -2,6 +2,9 @@
 body{
     background: linear-gradient(#2A0087, #42006c);
 }
+/* *{
+    overflow-x: hidden;
+} */
 .container{
     overflow-y: hidden;
     display: flex;
